@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="course.xslt" ?>
+
+<course id="f5a05d35-a682-4af6-96f7-0773e42d4d16">
+	<entitled>Course Name goes here</entitled>
+	<summary>lil' description</summary>
+	<schedule>
+		<from data="2020-03-04" />
+		<to data="2020-03-05" />
+	</schedule>
+	<topics>
+		<topic id="" module="">
+			<date-time data="" />
+			<session-name>Topic 1 -- Intro </session-name>
+			<moderator data="" />
+			<target-people />
+		</topic>
+		<topic id="" module="">
+			<date-time data="" />
+			<session-name>Topic 2 -- Final et Test </session-name>
+			<moderator data="" />
+			<target-people />
+		</topic>
+	</topics>
+</course>
