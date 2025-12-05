@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="course.xslt" ?>
+
+<course id="">
+	<entitled>Química | 3er año</entitled>
+	<summary>Temario para la prueba de comprobación anual del curso de química para el tercer año de E.S.</summary>
+	<schedule>
+		<from data="1983-11-01" />
+	</schedule>
+	<topics>
+		<topic id="" module="1">
+			<session-name>La materia</session-name>
+			<summary-session>La materia, Propiedades, Estructura, Estados fundamentales</summary-session>
+		</topic>
+		<topic id="" module="2">
+			<session-name>Sustancias</session-name>
+			<summary-session>Sustancias, clases: simples y compuestas, Estructura atómica, núcleo y envoltura, Corpúsculos sub-atómicos.</summary-session>
+		</topic>
+		<topic id="" module="3">
+			<session-name>Peso atómico</session-name>
+			<summary-session>Peso y número atómico, Radioactividad</summary-session>
+		</topic>
+		<topic id="" module="4">
+			<session-name>Distribución electrónica</session-name>
+			<summary-session>Distribución electrónica, Niveles y sub-niveles de energía</summary-session>
+		</topic>
+		<topic id="" module="5">
+			<session-name>Valencia</session-name>
+			<summary-session>Valencia, Clases de valencia, Electrón de valencia.</summary-session>
+		</topic>
+		<topic id="" module="6">
+			<session-name>Ión</session-name>
+			<summary-session>Ión, Clases de iones, formación de iones.</summary-session>
+		</topic>
+		<topic id="" module="7">
+			<session-name>Enlaces químicos</session-name>
+			<summary-session>Enlaces químicos, Enlace iónico, enlace covalente.</summary-session>
+		</topic>
+		<topic id="" module="8">
+			<session-name>Compuestos binarios.</session-name>
+			<summary-session>Compuestos binarios, División: No oxigenados i oxigenados, Funciones.</summary-session>
+		</topic>
+		<topic id="" module="9">
+			<session-name>Óxidos metálicos</session-name>
+			<summary-session>Óxidos metálicos, Nomenclatura i escritura, Óxidos especiales, Peróxidos i óxidos dobles.</summary-session>
+		</topic>
+		<topic id="" module="10">
+			<session-name>Anhidridos</session-name>
+			<summary-session>Anhidridos, de los NO metales de los grupos IV, V, VI, VII</summary-session>
+		</topic>
+		<topic id="" module="11">
+			<session-name>Hidróxidos</session-name>
+			<summary-session>Hidróxidos .- Procedencia .- Grupo funcional .- Nomenclatura i escritura.</summary-session>
+		</topic>
+		<topic id="" module="12">
+			<session-name>Ácidos</session-name>
+			<summary-session>Ácidos .- hidrácidos y oxácidos .- Nomenclatura i escritura .-Ácidos Meta, Piro, Orto </summary-session>
+		</topic>
+		<topic id="" module="13">
+			<session-name>Oxisales</session-name>
+			<summary-session>Oxisales .- Procedencia .-Oxisales neutras .- Nomenclatura i escritura</summary-session>
+		</topic>
+		<topic id="" module="14">
+			<session-name>Reacciones y ecuaciones</session-name>
+			<summary-session>Reacciones y ecuaciones químicas .- Leyes de combinaciones.</summary-session>
+		</topic>
+		<topic id="" module="15">
+			<session-name>Balanceo de las ecuaciones</session-name>
+			<summary-session>Balanceo de las ecuaciones: por tanteo, por reducción-oxidación.</summary-session>
+		</topic>
+		<topic id="" module="16">
+			<session-name>Cálculos matemáticos</session-name>
+			<summary-session>Cálculos matemáticos .- átomo-gramo .- molécula-gramo.</summary-session>
+		</topic>
+		<topic id="" module="17">
+			<session-name>Hidrocarburos saturados</session-name>
+			<summary-session>Hidrocarburos saturados .- Fórmula general .- Nomenclatura i escritura.</summary-session>
+		</topic>
+		<topic id="" module="18">
+			<session-name>Hidrocarburos no saturados</session-name>
+			<summary-session>Hidrocarburos no saturados .- Hidrocarburos eténicos .- Alkenos normales .- Nomenclatura i escritura.</summary-session>
+		</topic>
+		<topic id="" module="19">
+			<session-name>Hidrocarburos Etínicos</session-name>
+			<summary-session>Hidrocarburos Etínicos .- Fórmula general .- Alkinos normales .- Nomenclatura i escritura.</summary-session>
+		</topic>
+		<topic id="" module="20">
+			<session-name>Alcoholes</session-name>
+			<summary-session>Alcoholes, Clases .- Alcoholes Primarios .- Monoles .- Nomenclatura i escritura</summary-session>
+		</topic>
+		<topic id="" module="21">
+			<session-name>Acetonas</session-name>
+			<summary-session>Acetonas, Clases .- Nomenclatura i escritura</summary-session>
+		</topic>
+	</topics>
+	<!-- Edgardo Mendoza L. / Coordinador de Cs. Naturales -->
+</course>
